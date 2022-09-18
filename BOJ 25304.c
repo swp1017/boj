@@ -25,3 +25,10 @@ int main()
     return 0;
 
 }
+
+
+int marine(firemarine)
+{
+    int firemarine;
+    
+}
