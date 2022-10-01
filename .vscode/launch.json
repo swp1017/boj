@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/swp10/C/baekjoon/boj",
-      "program": "c:/Users/swp10/C/baekjoon/boj/build/Debug/outDebug",
+      "cwd": "c:/Users/swp10/cProgramming/boj/boj",
+      "program": "c:/Users/swp10/cProgramming/boj/boj/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
